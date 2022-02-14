@@ -8,7 +8,12 @@ description: "Lecture notes on space navigation, the line of position, the posit
   \ and the information matrix."
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-346-astrodynamics-fall-2008/02c47f22a8c4805b192f2160c4d697f8_lec_21.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Space Navigation: The Position Fix'
+type: OCWFile
 uid: 02c47f22-a8c4-805b-192f-2160c4d697f8
 ---

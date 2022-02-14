@@ -7,7 +7,12 @@ description: Lecture notes on analytic and geometric properties of the BVP, orbi
   focus, and the semiperimeter of a triangle.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-346-astrodynamics-fall-2008/69eff4e14a09aa68121fa2cec5afd438_lec_08.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Analytic and Geometric Properties of the BVP
+type: OCWFile
 uid: 69eff4e1-4a09-aa68-121f-a2cec5afd438
 ---

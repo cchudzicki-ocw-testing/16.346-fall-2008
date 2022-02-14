@@ -6,7 +6,12 @@ description: "Lecture notes on Lagrange\u2019s variational methods for linear eq
   \ and Gauss\u2019 form of the variational equations in tangential-normal coordinates."
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-346-astrodynamics-fall-2008/5fab182cff3f433ff219cde000444e06_lec_27.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Variation of Parameters
+type: OCWFile
 uid: 5fab182c-ff3f-433f-f219-cde000444e06
 ---

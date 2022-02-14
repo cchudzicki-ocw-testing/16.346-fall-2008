@@ -8,7 +8,12 @@ description: "Lecture notes on the orbital boundary-value problem, using the Lag
   \ to flight-path angle control."
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-346-astrodynamics-fall-2008/d7ff3189af5da0dc0edf88a29deae4c5_lec_06.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: The Orbital Boundary-Value Problem
+type: OCWFile
 uid: d7ff3189-af5d-a0dc-0edf-88a29deae4c5
 ---

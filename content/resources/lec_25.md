@@ -5,7 +5,12 @@ description: "Lecture notes on the restricted problem of three bodies, Jacobi\u2
   \ oscillation of an in\uFB01nitesimal mass."
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-346-astrodynamics-fall-2008/f164cb9365094045a220083963757725_lec_25.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: The Restricted Problem of Three Bodies
+type: OCWFile
 uid: f164cb93-6509-4045-a220-083963757725
 ---

@@ -6,7 +6,12 @@ description: "Lecture notes on a non-singular \"Gauss-like\" method for the BVP,
   \ and the new method."
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-346-astrodynamics-fall-2008/e8c373523cc52a157f4c9d090ad26d83_lec_16.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Non-singular "Gauss-like" method for the BVP
+type: OCWFile
 uid: e8c37352-3cc5-2a15-7f4c-9d090ad26d83
 ---

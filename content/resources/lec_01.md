@@ -7,7 +7,12 @@ description: "Lecture notes on Newton's two-body equations of motion, conservati
   \ and Gibb\u2019s method of orbit determination."
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-346-astrodynamics-fall-2008/6bf51b7353a4a3b2ec4c4819091e57c2_lec_01.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: The Two Body Problem
+type: OCWFile
 uid: 6bf51b73-53a4-a3b2-ec4c-4819091e57c2
 ---

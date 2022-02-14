@@ -5,7 +5,12 @@ description: Lecture notes on patched conics and planetary flybys, terminology, 
   round-trip orbits.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-346-astrodynamics-fall-2008/0dbaa1b386882898adbd8f264fff3764_lec_12.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Patched Conics and Planetary Flybys
+type: OCWFile
 uid: 0dbaa1b3-8688-2898-adbd-8f264fff3764
 ---

@@ -5,7 +5,12 @@ description: "Lecture notes on the state transition matrix, linearization of the
   \ equations, and midcourse orbit corrections."
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-346-astrodynamics-fall-2008/a88bf1b4e2238cd921b395993a22bb28_lec_19.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: The State Transition Matrix
+type: OCWFile
 uid: a88bf1b4-e223-8cd9-21b3-95993a22bb28
 ---

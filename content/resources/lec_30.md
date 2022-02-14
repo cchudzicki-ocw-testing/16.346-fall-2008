@@ -6,7 +6,12 @@ description: "Lecture notes on variational equations using the disturbing functi
   \ of the Earth\u2019s gravitational potential."
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-346-astrodynamics-fall-2008/1a557e264b9ec2e5c71c39ed62d84c1d_lec_30.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Effect of J2 on a satellite orbit of the Earth
+type: OCWFile
 uid: 1a557e26-4b9e-c2e5-c71c-39ed62d84c1d
 ---

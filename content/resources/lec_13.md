@@ -6,7 +6,12 @@ description: "Lecture notes on Gauss' method for the time-constrained BVP, Lagra
   \ Gauss\u2019 successive substitution algorithm."
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-346-astrodynamics-fall-2008/45527af4f7671785ca1438869b045dcd_lec_13.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Gauss' Method for the Time-Constrained BVP
+type: OCWFile
 uid: 45527af4-f767-1785-ca14-38869b045dcd
 ---
