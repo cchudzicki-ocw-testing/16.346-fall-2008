@@ -13,6 +13,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Analytic and Geometric Properties of the BVP
-type: OCWFile
 uid: 69eff4e1-4a09-aa68-121f-a2cec5afd438
 ---

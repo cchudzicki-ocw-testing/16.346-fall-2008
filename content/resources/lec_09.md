@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Lambert's Theorem and the Lagrange Time Equation
-type: OCWFile
 uid: 325aba5c-735d-9f62-2fb7-116985b5ab19
 ---

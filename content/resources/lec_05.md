@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Euler Angles
-type: OCWFile
 uid: 98996c87-e2c8-679b-da5d-37f7a3d7785c
 ---

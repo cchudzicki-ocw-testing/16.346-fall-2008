@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Effect of Atmospheric Drag on Satellite Orbits
-type: OCWFile
 uid: 821eea8e-5993-1990-b954-f9af04dd754a
 ---

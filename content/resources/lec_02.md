@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: The Two Body Problem Continued
-type: OCWFile
 uid: dbce406d-f8d1-3e05-2f92-29880ed96c02
 ---

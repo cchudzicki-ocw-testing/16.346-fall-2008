@@ -14,6 +14,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: The Initial-Value Problem
-type: OCWFile
 uid: 87431d1d-0bfd-2488-fe40-2067e0afcb59
 ---

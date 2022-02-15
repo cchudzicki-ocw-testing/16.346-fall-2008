@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: The Battin-Vaughan algorithm for the BVP
-type: OCWFile
 uid: db572822-9370-8f42-ec59-a1108c05a43e
 ---

@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Basic Elements of the Three Body Problem
-type: OCWFile
 uid: 999a8785-0430-86e3-d288-16b3f98ce01a
 ---

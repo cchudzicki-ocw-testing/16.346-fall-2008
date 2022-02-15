@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Powered Flight Guidance
-type: OCWFile
 uid: 6582bed5-f428-77db-2aa7-8576e1c34e67
 ---

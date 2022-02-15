@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Estimation of Position and Velocity in Space Navigation
-type: OCWFile
 uid: 1b3878cb-a213-5f66-1e06-5dddb78f548d
 ---

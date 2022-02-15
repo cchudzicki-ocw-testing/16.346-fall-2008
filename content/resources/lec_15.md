@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: The Fundamental Ellipse of the BVP
-type: OCWFile
 uid: 6816d2bf-262f-1dda-b213-64e16cf1d553
 ---

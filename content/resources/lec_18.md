@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Preliminary Orbit Determination Using Taylor Series
-type: OCWFile
 uid: 2e5e96a3-ee7e-5be8-f42c-4653fd9395ca
 ---

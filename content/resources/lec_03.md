@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Barker's Equation and Kepler's Equation
-type: OCWFile
 uid: 379eae1a-78cf-9ad5-8247-058dffbae3ac
 ---

@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: The Disturbing Function and Legendre Polynomials
-type: OCWFile
 uid: d753d9c9-44d9-bffb-13c1-69f0f1c73d69
 ---

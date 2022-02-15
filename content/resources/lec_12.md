@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Patched Conics and Planetary Flybys
-type: OCWFile
 uid: 0dbaa1b3-8688-2898-adbd-8f264fff3764
 ---

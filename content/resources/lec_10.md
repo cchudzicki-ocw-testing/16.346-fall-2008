@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Transformation of the Boundary-Value Problem
-type: OCWFile
 uid: afcabdcf-9936-ca8b-3919-353d0c999af7
 ---

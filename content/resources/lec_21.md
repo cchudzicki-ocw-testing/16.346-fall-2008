@@ -14,6 +14,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Space Navigation: The Position Fix'
-type: OCWFile
 uid: 02c47f22-a8c4-805b-192f-2160c4d697f8
 ---

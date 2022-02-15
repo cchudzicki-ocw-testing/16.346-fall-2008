@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Variation of Parameters
-type: OCWFile
 uid: 5fab182c-ff3f-433f-f219-cde000444e06
 ---

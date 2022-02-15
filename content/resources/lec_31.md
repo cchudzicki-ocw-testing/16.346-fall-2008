@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: The Calculus of Variations and Lunar Landing Guidance
-type: OCWFile
 uid: cd24992e-bf5a-375a-dcaa-d927dbbaa5a8
 ---

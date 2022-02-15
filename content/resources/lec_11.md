@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Hyperbolic Orbits
-type: OCWFile
 uid: 57c2248d-c97c-932c-db59-def26cfd25c2
 ---

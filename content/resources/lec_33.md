@@ -15,6 +15,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Runge-Kutta Method of Numerical Integration
-type: OCWFile
 uid: 5180b58e-e826-54aa-5a34-1d146ae81a53
 ---

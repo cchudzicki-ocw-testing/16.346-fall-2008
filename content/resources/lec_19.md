@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: The State Transition Matrix
-type: OCWFile
 uid: a88bf1b4-e223-8cd9-21b3-95993a22bb28
 ---

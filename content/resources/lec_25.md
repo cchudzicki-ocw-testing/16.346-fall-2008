@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: The Restricted Problem of Three Bodies
-type: OCWFile
 uid: f164cb93-6509-4045-a220-083963757725
 ---

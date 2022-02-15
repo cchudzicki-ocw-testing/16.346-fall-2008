@@ -13,6 +13,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Hypergeometric Functions and Continued Fractions
-type: OCWFile
 uid: 49ded43f-aed5-c184-effd-f8b27d6422b9
 ---

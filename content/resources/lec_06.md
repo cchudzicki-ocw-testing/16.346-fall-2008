@@ -14,6 +14,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: The Orbital Boundary-Value Problem
-type: OCWFile
 uid: d7ff3189-af5d-a0dc-0edf-88a29deae4c5
 ---

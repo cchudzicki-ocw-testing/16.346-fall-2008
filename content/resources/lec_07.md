@@ -14,6 +14,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Optimum Orbital Transfer
-type: OCWFile
 uid: 7d1da2ed-4c4b-8b54-1f47-51bece4dd9ec
 ---

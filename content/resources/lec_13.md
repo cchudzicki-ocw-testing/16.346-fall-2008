@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Gauss' Method for the Time-Constrained BVP
-type: OCWFile
 uid: 45527af4-f767-1785-ca14-38869b045dcd
 ---

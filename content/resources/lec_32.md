@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Powered Flight Guidance to Maximize Final Energy
-type: OCWFile
 uid: 6faaed9e-0bea-f7a3-e133-026935416b3b
 ---

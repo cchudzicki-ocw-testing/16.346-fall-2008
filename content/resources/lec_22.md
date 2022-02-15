@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: The Covariance, Information and Estimator Matrices
-type: OCWFile
 uid: 311d5c5c-6ad7-3b87-4fc5-34fb20e2081a
 ---
