@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-346-astrodynamics-fall-2008/41ef390c5da842ba470cefd0160ce043_SJI-SAs1Rnk.srt
+file: /courses/16-346-astrodynamics-fall-2008/41ef390c5da842ba470cefd0160ce043_SJI-SAs1Rnk.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile
