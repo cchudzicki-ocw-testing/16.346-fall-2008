@@ -8,6 +8,7 @@ file: /courses/16-346-astrodynamics-fall-2008/2e5e96a3ee7e5be8f42c4653fd9395ca_l
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
