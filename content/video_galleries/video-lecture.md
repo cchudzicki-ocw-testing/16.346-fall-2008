@@ -8,4 +8,4 @@ videos:
   - aed5f941-5f95-9ae2-3dc1-687b639f8046
   website: 16-346-astrodynamics-fall-2008
 ---
-This is the video lecture offered by Richard Battin on the topic of "Some Funny Things Happened on the Way to the Moon."
+This video lecture was offered by Richard Battin on the topic of "Some Funny Things Happened on the Way to the Moon."
