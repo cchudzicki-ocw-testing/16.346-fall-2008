@@ -11,3 +11,7 @@ leftnav:
   name: Assignments
   url: /pages/assignments
   weight: 30
+- identifier: ada452a7-00d4-4015-bde5-9d47e6f3fad6
+  name: Video Lecture
+  url: /video_galleries/video-lecture
+  weight: 40
